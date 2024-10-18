@@ -1,4 +1,4 @@
-# customer_engagement_modeling
+# CustomerEngagementModeling
 
 ## Описание данных
 
